@@ -12,7 +12,7 @@ Free Multi-Timeframe Scanner Bot for Binary Options Trading on IQ Option. Real-t
 
 **Professional Binary Options Trading Tool for IQ Option**
 
-[⬇️ Download Latest Release](https://github.com/MTF-TradingSystem/binary-options-scanner-bot/releases/tag/v1.0.0)
+[⬇️ Download Latest Release](https://github.com/MTF-TradingSystem/binary-options-scanner-bot/releases/download/v1.0.0/MTF-Scanner-v1.0.0.rar)
 
 </div>
 
