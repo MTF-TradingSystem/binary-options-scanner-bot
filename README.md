@@ -1,4 +1,4 @@
-<img width="1171" height="681" alt="ScreenShot0" src="https://github.com/user-attachments/assets/a1dcca21-7bbf-4d08-a161-0747d26432ff" /># Binary-Options-Scanner-Bot
+# Binary-Options-Scanner-Bot
 Free Multi-Timeframe Scanner Bot for Binary Options Trading on IQ Option. Real-time CALL/PUT signals across 37 pairs (OTC + standard) using EMA20/EMA100 trend confirmation. Supports 5s, 30s, 5m timeframes with strength scoring. 18 languages, audio alerts, balance tracking. Open source trading tool for forex, crypto &amp; OTC markets.
 
 # ⚡ Multi-Timeframe Scanner
