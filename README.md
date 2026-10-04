@@ -85,9 +85,7 @@ EURUSD-OTC, AUDCAD-OTC, EURGBP-OTC, AUDCHF-OTC, AUDJPY-OTC, AUDUSD-OTC, AUDNZD-O
 
 ##  Screenshots
 
-![Uploading <img width="1569" height="668" alt="ScreenShots1" src="https://github.com/user-attachments/assets/ac9bdcec-efde-4cf2-9fc3-1da0f7e67d45" />
-ScreenShot0.JPG…]()
-
+<img width="1569" height="668" alt="ScreenShots1" src="https://github.com/user-attachments/assets/44414e9b-232d-436e-a9a2-328b6bbd2fc2" />
 
 ---
 
